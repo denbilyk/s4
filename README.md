@@ -1,7 +1,7 @@
 # S4 Test assignment
 
 ##### Frameworks: Java 8, Spring-Boot, Spring-REST, Spring-Data, Guava, HSQLDB
-###### I'e used Spring because it's simplest way to create some small executed project very fast. Powerful mechanism to map REST services '
+###### I've used Spring because its simplest way to create some small executed project very fast. Powerful mechanism to map REST services
  
 ##### API Docs
  
