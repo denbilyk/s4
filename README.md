@@ -1,7 +1,7 @@
 # S4 Test assignment
 
 ##### Frameworks: Java 8, Spring-Boot, Spring-REST, Spring-Data, Guava, HSQLDB
-###### I've used Spring because its simplest way to create some small executed project very fast. Powerful mechanism to map REST services
+###### I've used Spring because its simplest way to create some small executable project very fast. Powerful mechanism to map REST services
  
 ##### API Docs
  
@@ -21,7 +21,7 @@
        "last_name" : "Marley"
      }`
   * Response: 
-     - 400 - Some of parameter is miss or invalid
+     - 400 - Some of parameters missed or invalid
      - 202 - Student with same id already exists
      - 201 - Student created
     
@@ -137,7 +137,7 @@
            "description" : "Learn Physics!"
        }` 
     * Response: 
-       - 400 - Some of parameter is miss or invalid
+       - 400 - Some of parameters missed or invalid
        - 202 - Class with same id already exists
        - 201 - Class created
               
